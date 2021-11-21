@@ -1,2 +1,2 @@
 # techwastaken.github.io
-website yey
+error 404
